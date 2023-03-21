@@ -41,7 +41,7 @@ namespace CSharpReg
                         Console.WriteLine("========= BON MENU =========");
                         Console.WriteLine("Bon " + aantalBonnen.ToString());
                         Console.WriteLine("1. Volwassene                     € 19,-");
-                        Console.WriteLine("2. Kinderen tot 12jr              € 9,-");
+                        Console.WriteLine("2. kinderen tot 12jr              € 9,-");
                         Console.WriteLine("3. Familiepas (2x volw. 3x kind)  € 49");
                         Console.WriteLine("4. DeveloperLand-kaart            € 4,50");
                         Console.WriteLine("5. Kinderwagen/bolderkar (1 dag)  € 6");
