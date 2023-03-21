@@ -105,7 +105,7 @@ namespace CSharpReg
                     }
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 2)
+                else if (keuze == "2")
                 {
                     // TODO: Afmaken
                 }
